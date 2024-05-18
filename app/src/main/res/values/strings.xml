@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Urban Shoes</string>
+
+    <string name="splash_Number1">Urban Shoes</string>
+    <string name="splash_Number2">step in to spring</string>
+    <string name="onboard">Welcome to Urban Shoes</string>
+    <string name="onbooard1">World Biggest Sneaker Flatform</string>
+    <string name="onboard21">Find all brands </string>
+    <string name="onboard22">From</string>
+    <string name="onboard23">One Flatform</string>
+    <string name="onboard31"> &quot; Grab Your</string>
+    <string name="onboard32">    Sneaker &quot;</string>
+    <string name="buy">Buy</string>
+    <string name="cart">Add to Cart</string>
+    <string name="nike">Nike Air $ 199</string>
+    <string name="nike_des">Nike Air shoes: Innovatively designed for superior comfort and performance, featuring Nike Air cushioning for a smooth ride with style.</string>
+    <string name="puma">Puma $99</string>
+    <string name="puma_des">Puma shoes: Innovatively designed for superior comfort and performance, featuring Puma cushioning for a smooth ride with style.</string>
+    <string name="jordan">Air Jordan $399</string>
+    <string name="jordan_des"> Air Jordan shoes: Innovatively designed for superior comfort and performance, featuring  Air Jordan cushioning for a smooth ride with style.</string>
+    <string name="adi">Addidas $99</string>
+    <string name="adi_des">Addidas shoes: Innovatively designed for superior comfort and performance, featuring Addidas Air cushioning for a smooth ride with style.</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
